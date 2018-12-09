@@ -90,8 +90,6 @@ class Home extends Component {
 	}
 
 	onFileRead(dataUrl) {
-		Api.storageSet("instaFile", dataUrl);
-
 		const added = {
 			"Image": dataUrl,
 			"likes": 0,
