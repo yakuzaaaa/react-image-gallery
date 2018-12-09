@@ -2,7 +2,7 @@
 	"name": "nilarnab-insta",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "http://yakuzaaaa.github.io/myapp",
+	"homepage": "https://yakuzaaaa.github.io/react-image-gallery/",
 	"dependencies": {
 		"@fortawesome/fontawesome-svg-core": "^1.2.9",
 		"@fortawesome/free-solid-svg-icons": "^5.6.0",
@@ -21,7 +21,7 @@
 		"test": "react-scripts test",
 		"eject": "react-scripts eject",
 		"predeploy": "yarn build",
-		"deploy": "gh-pages -d build"
+		"deploy": "gh-pages -b master -d build"
 	},
 	"eslintConfig": {
 		"extends": "react-app"
