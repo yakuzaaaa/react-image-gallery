@@ -1,3 +1,7 @@
+This project is hosted at: https://yakuzaaaa.github.io/react-image-gallery/
+This project is hosted at: https://yakuzaaaa.github.io/react-image-gallery/
+This project is hosted at: https://yakuzaaaa.github.io/react-image-gallery/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
